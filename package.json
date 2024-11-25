@@ -1,0 +1,26 @@
+{
+  "name": "pomodoro-time-management",
+  "version": "1.0.0",
+  "description": "time management methode pomodoro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aripinilham24/pomodoro-time-management.git"
+  },
+  "keywords": [
+    "pomodoro"
+  ],
+  "author": "aripin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aripinilham24/pomodoro-time-management/issues"
+  },
+  "homepage": "https://github.com/aripinilham24/pomodoro-time-management#readme",
+  "dependencies": {
+    "moment": "^2.30.1",
+    "node-notifier": "^10.0.1"
+  }
+}
