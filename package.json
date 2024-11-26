@@ -21,6 +21,7 @@
   "homepage": "https://github.com/aripinilham24/pomodoro-time-management#readme",
   "dependencies": {
     "moment": "^2.30.1",
-    "node-notifier": "^10.0.1"
+    "node-notifier": "^10.0.1",
+    "pomodoro-time-management": "file:"
   }
 }
